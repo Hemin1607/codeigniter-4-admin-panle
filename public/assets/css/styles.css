@@ -1,0 +1,23 @@
+.cust-center{
+	margin: 0 auto !important;
+	float: none !important;  
+}
+.dataTables_filter{
+	top: 0px;
+}
+.error{
+	color: red
+}
+.cust-text-error-p{
+	color: red;
+	text-align: center;
+}
+.float-right-padding{
+	float : right;
+	padding-top: 3px;
+	padding-right : 5px;
+}
+.cust-height-width{
+	width: 150px;
+    height: 100px;
+}
